@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/open-sans-bold.ttf",
+      "sha1": "dc9c07303a2392f9ee02fdb636814970753ac94a"
+    },
+    {
+      "path": "assets/fonts/open-sans.ttf",
+      "sha1": "0ad533c702f9ac1de717063040426858662cfbcc"
+    }
+  ]
+}
